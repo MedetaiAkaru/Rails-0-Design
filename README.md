@@ -17,7 +17,7 @@ Before you start:
 
 ### Time Guidelines
 
-- **9:15am to 10:15am** (60 min) 👉 Define your product pitch, primary persona and write down your core user journey. Make a copy of the <a href="https://docs.google.com/spreadsheets/d/1OGCJLizpcROt0WwbGV_bCOxBktHO9XPdNHkXcZIyX1o/edit?usp=sharing" target="_blank">UX Research spreadsheet</a> and complete the different templates.
+- **9:15am to 10:15am** (60 min) 👉 Define your product pitch, primary persona and write down your core user journey. Make a copy of the <a href="https://docs.google.com/spreadsheets/d/1rKgf4s8opvdstvFYXoO0p-iFGB0wVTGB9j5G_e3LZ0k/edit?usp=sharing" target="_blank">UX Research spreadsheet</a> and complete the different templates.
 - **10:15am - 11:30am** (75 min) 👉  Translate the core user journey into a user flow with [Whimsical](https://whimsical.co)
 - **11:30am - 1pm** (90 min) 👉 Build your UI kit and start working on your wireframe with Figma.
 
@@ -30,10 +30,10 @@ Before you start:
 
 #### Design resources
 
-- **Fonts**: download and install `.ttf` fonts from [Google fonts](https://fonts.google.com/) or [getthefont](https://www.getthefont.com/)
-- **Colors**: find them on [Color Hunt](https://colorhunt.co/) or use a color picker like [Colorzilla](http://www.colorzilla.com/)
+- **Fonts**: download and install fonts from [Google fonts](https://fonts.google.com/) or [getthefont](https://www.getthefont.com/)
+- **Colors**: find colors on [Color Hunt](https://colorhunt.co/) or use a color picker like [Colorzilla](http://www.colorzilla.com/)
 - **Pictures**: you can use [unsplash](https://unsplash.com/)
-- **Icons**: download and use [Nucleo app](https://nucleoapp.com/) for utility icons
+- **Icons**: Use [icon8](https://icons8.com/icons) or [Nucleo](https://nucleoapp.com/) or search online for utility icons
 
 ### Pitch
 When you are done, copy / paste your prototype URL on Slack. To get the prototype URL, first play your prototype and then click on the `Share  Prototype` button like below:
